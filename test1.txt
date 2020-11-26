@@ -1,0 +1,10 @@
+ Volume in drive C has no label.
+ Volume Serial Number is 80C5-A212
+
+ Directory of C:\Users\Ali hyder\Desktop\My project
+
+11/26/2020  10:13 AM    <DIR>          .
+11/26/2020  10:13 AM    <DIR>          ..
+11/26/2020  10:13 AM                 0 test1.txt
+               1 File(s)              0 bytes
+               2 Dir(s)  64,798,519,296 bytes free
